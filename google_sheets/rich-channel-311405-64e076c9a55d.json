@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-channel-311405",
+  "private_key_id": "64e076c9a55d99c3966731a5414d82c7a991a1e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/3YBBQ/Ol4RMm\nOlqb2lv20MWBVLGK0sUsTTo9JjzuA8qvdxb0Gp/kANmr1ZhEpxmFHfsf69wPok2a\neIwmwWgdq0v8RpPx82QuOtgwC5fiY1dj5fCzfmqCg0KVJ3n1i0VZ5HrroYiPxKl6\n7MBzZNmgvFxXnOIuujrO6k2iM9Jy5wk0vFXQRN3bBLAlCszfY920R1FI6pBQpVZs\n0SRhwKf3BNiMpbB9r0v+/xCOlLOjtRRsxwE7nVxG+pvdbLaaKrERtnXRP5jK+whU\nMlnYSyIlbsTWCBo30zQo5fcAhUydxJyyQT1xRtpjz9bjx1UonMBPhyzl1VwPyMEA\nS1uT7ZStAgMBAAECggEADgF9SGZi4x1Iy1Mvru2z+xK26Y+/7SEhNRsccP8kAVZO\nsFvfwFPa5PyTPI9j+pZTJIFG23KZgXJTkBQ+24u7Tg0lh8Xe12bxIsx3YHHRitG9\n0k75sPSoZvIY2nADtQ26CIucqyuYdIbtPfS0lh01eMhp75hbd4CZ5JBnOJEStVdG\nqnI20+/Vbi5tJ/2JOdCG6J4VMLGdkVrpAJRICfXe837kALRwSr0APCuBqyGJYeK6\nLlBEChFps81i2S3AmoPIUGPb/uYFDSK6tSkZ6sGIKRob3U5V5MYAC8hePo+6FTYc\nN0Lqs8CD+TZ3nYe57MMrPK8GYr51ZyAs19Q4Y/whIQKBgQDnR/L1Inom6mlh1LM7\nbI5qzAaN8NoRamkoDcjUvMAqG2ECSjdck0klS0kZfFGwvxdsbd7Fgz6JXTSxO6CZ\n9jeldYbEcsLDj7ffilbu9V/1u5w5icvSWhzg2ZV8esEfcdQIkSnJvMLJZnO6+clo\nyYDD1b4czM12YThEQy45VxVeDQKBgQDUXxnaI+deKQTmeMJYpDldI3H9aSLHJj57\nFqFuKfjbkka5TPQUAWAJ+/yJYVk/r3glZWM6DEchgk0DpjhN8fqJf5NU4TfUOpCn\n4MY+0s5DqT2W+yfsLa5KZymXuIuMxHmrD6BqLPdFnBpJXx8/45n37SCSUvuAaIKa\nVsDTJ9YJIQKBgQDmhbZKU0UBiN/k3QaQklEZbaaSz5/rf+60N5kXQdMfpQ56I9Mu\neLeNbo670kfyLWWBc7l5kKlCbR5aER6wltM8Hfpn0CMEnTkenFqt7vDok0jRqOD5\nF0x1aSowWoInf2Nh7p6CL5zO9Ukg8luoEEBB8cd+GTwpZBmbIILwMDZh+QKBgBdd\n+284Ih4HL2XYhbHRKAqqesFiTxRQjfFnNQ31Ck/GkYeUAwssd4/BrTDEiFhsizC6\nLifV8AGs36J2KJ3S8Tkt0100hrsQUphWMBn7gfyJ45/4NJVVFWdUYIw0Hw63E5gR\n2Rm1puN+4JmQINUbyvYvnjTbcpbXaP9oakERkghhAoGBAJ/KLRK63RdzwbfTn1Pl\n2I4PpijhAjV3z7/VmBqV0v/ishGlIE2TwvAgHKsdrQwSVWIBvghsCsluCwH3IiQC\nX3LcisqxUPdT1F3mFkgMWi1t7uiqPYo9NYKJhIpI4sSCqRBzQz/BkmXa9MQYT/eY\n5hFXG/monRVs1YkcsNliUV4A\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-python@rich-channel-311405.iam.gserviceaccount.com",
+  "client_id": "114458167839585688235",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-python%40rich-channel-311405.iam.gserviceaccount.com"
+}
