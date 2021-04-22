@@ -1,0 +1,116 @@
+rank,vehicle,driver,time
+1,W11 EQ Performance,Lewis Hamilton,01:18.9
+2,W11 EQ Performance,Valtteri Bottas,01:19.0
+3,Ferrari SF71H,Kimi Raikkonen,01:19.1
+4,Ferrari SF71H,Sebastian Vettel,01:19.3
+5,Mercedes-Benz W09,Lewis Hamilton,01:19.3
+6,Ferrari SF90,Charles Leclerc,01:19.3
+7,Mercedes-Benz W10 EQ Power+,Lewis Hamilton,01:19.4
+8,Mercedes-Benz W10 EQ Power+,Valtteri Bottas,01:19.4
+9,Ferrari SF90,Sebastian Vettel,01:19.5
+10,Mercedes-Benz W09,Valtteri Bottas,01:19.7
+11,McLaren MCL35,Carlos Sainz,01:19.7
+12,Racing Point RP20,Sergio Perez,01:19.7
+13,Red Bull RB16,Max Verstappen,01:19.8
+14,McLaren MCL35,Lando Norris,01:19.8
+15,Renault RS19,Daniel Ricciardo,01:19.8
+16,Renault RS20,Daniel Ricciardo,01:19.9
+17,AlphaTauri AT01,Pierre Gasly,01:19.9
+18,Racing Point RP20,Lance Stroll,01:19.9
+19,Red Bull RB15,Alexander Albon,01:20.0
+20,Renault RS19,Nico Hulkenberg,01:20.0
+21,Red Bull RB16,Alexander Albon,01:20.1
+22,AlphaTauri AT01,Daniil Kvyat,01:20.2
+23,McLaren MCL34,Carlos Sainz,01:20.2
+24,Renault RS20,Esteban Ocon,01:20.2
+25,Ferrari SF1000,Charles Leclerc,01:20.3
+26,Racing Point RP19,Lance Stroll,01:20.5
+27,Toro Rosso STR14,Pierre Gasly,01:20.5
+28,Alfa Romeo C38,Kimi Räikkönen,01:20.5
+29,Alfa Romeo C38,Antonio Giovinazzi,01:20.5
+30,Red Bull RB14,Max Verstappen,01:20.6
+31,Haas VF-19,Kevin Magnussen,01:20.6
+32,Toro Rosso STR14,Daniil Kvyat,01:20.6
+33,McLaren MCL34,Lando Norris,01:20.7
+34,Haas VF-19,Romain Grosjean,01:20.8
+35,Haas VF-20,Kevin Magnussen,01:20.9
+36,Alfa Romeo C39,Kimi Räikkönen,01:20.9
+37,Haas VF-18,Romain Grosjean,01:20.9
+38,Renault RS18,Carlos Sainz,01:21.0
+39,Force India VJM11,Esteban Ocon,01:21.1
+40,Mercedes-Benz F1 W07 Hybrid,Lewis Hamilton,01:21.1
+41,Haas VF-20,Romain Grosjean,01:21.1
+42,Ferrari SF1000,Sebastian Vettel,01:21.2
+43,Alfa Romeo C39,Antonio Giovinazzi,01:21.2
+44,Red Bull RB14,Daniel Ricciardo,01:21.3
+45,Racing Point RP19,Sergio Perez,01:21.3
+46,Toro Rosso STR13,Pierre Gasly,01:21.4
+47,Williams FW43,George Russell,01:21.6
+48,Mercedes-Benz F1 W07 Hybrid,Nico Rosberg,01:21.6
+49,Williams FW41,Lance Stroll,01:21.6
+50,Haas VF-18,Kevin Magnussen,01:21.7
+51,Williams FW43,Nicholas Latifi,01:21.7
+52,Williams FW41,Sergey Sirotkin,01:21.7
+53,Williams FW42,George Russell,01:21.8
+54,Renault RS18,Nico Hulkenberg,01:21.8
+55,McLaren MCL33,Fernando Alonso,01:21.9
+56,Force India VJM11,Sergio Perez,01:21.9
+57,Sauber C37,Charles Leclerc,01:21.9
+58,Toro Rosso STR13,Brendon Hartley,01:21.9
+59,Ferrari SF16-H,Sebastian Vettel,01:22.0
+60,Sauber C37,Marcus Ericsson,01:22.0
+61,Ferrari SF16-H,Kimi Raikkonen,01:22.1
+62,McLaren MCL33,Stoffel Vandoorne,01:22.1
+63,Williams FW42,Robert Kubica,01:22.4
+64,Williams FW38,Valtteri Bottas,01:22.4
+65,Red Bull RB12,Daniel Ricciardo,01:22.4
+66,Red Bull RB12,Max Verstappen,01:22.4
+67,Force India VJM09,Sergio Perez,01:22.8
+68,Force India VJM09,Nico Hulkenberg,01:22.8
+69,Williams FW38,Felipe Massa,01:23.0
+70,Haas VF-16,Romain Grosjean,01:23.1
+71,Haas VF-16,Esteban Gutierrez,01:23.2
+72,McLaren MP4-31,Fernando Alonso,01:23.3
+73,Manor MRT05,Pascal Wehrlein,01:23.3
+74,McLaren MP4-31,Jenson Button,01:23.4
+75,Toro Rosso STR11,Carlos Sainz,01:23.5
+76,Toro Rosso STR11,Daniil Kvyat,01:23.8
+77,Sauber C35,Felipe Nasr,01:24.0
+78,Sauber C35,Marcus Ericsson,01:24.1
+79,Renault RS16,Jolyon Palmer,01:24.2
+80,Renault RS16,Kevin Magnussen,01:24.4
+81,Toyota TS050 (Mk II),unknown,01:30.6
+82,Peugeot 908 HDI FAP,unknown,01:31.5
+83,Porsche 919 Hybrid (Mk III),unknown,01:31.7
+84,Audi R10 TDI,unknown,01:33.2
+85,Mercedes-Benz W08,Lewis Hamilton,01:35.5
+86,Red Bull RB13,Max Verstappen,01:36.8
+87,Red Bull RB13,Daniel Ricciardo,01:36.8
+88,Porsche RS Spyder (Evo),unknown,01:36.8
+89,Williams FW40,Lance Stroll,01:36.9
+90,Force India VJM10,Sergio Perez,01:37.6
+91,Force India VJM10,Esteban Ocon,01:37.7
+92,Mercedes-Benz W08,Valtteri Bottas,01:37.8
+93,Ferrari SF70H,Kimi Raikkonen,01:38.0
+94,Renault RS17,Nico Hulkenberg,01:38.1
+95,Ferrari SF70H,Sebastian Vettel,01:38.1
+96,McLaren MCL32,Fernando Alonso,01:38.2
+97,Toro Rosso STR12,Daniil Kvyat,01:38.2
+98,Williams FW40,Felipe Massa,01:38.2
+99,Toro Rosso STR12,Carlos Sainz,01:38.5
+100,McLaren MCL32,Stoffel Vandoorne,01:39.2
+101,Haas VF-17,Kevin Magnussen,01:40.5
+102,Renault RS17,Jolyon Palmer,01:40.7
+103,Sauber C36,Marcus Ericsson,01:41.7
+104,Sauber C36,Pascal Wehrlein,01:41.9
+105,Haas VF-17,Romain Grosjean,01:43.4
+106,Ferrari LaFerrari,unknown,01:59.0
+107,Porsche 911 GT3 (991),unknown,02:00.9
+108,Porsche 911 GT3 RS (991),unknown,02:02.4
+109,Porsche 911 GT3 RS,unknown,02:04.7
+110,Porsche 911 GT3 RS (997),Felix Aretz,02:09.0
+111,BMW M3 CSL (E46),alexk,02:13.9
+112,Lotus Elise Sport 220 (Mk III),unknown,02:14.8
+113,Honda Civic Type R (FK2),Nobert Michelisz,02:15.2
+114,Alfa Romeo Giulietta 2.0 JTDM,Giampaolo Tenchini,02:35.0
+115,Peugeot RCZ GT THP200,unknown,02:37.0
