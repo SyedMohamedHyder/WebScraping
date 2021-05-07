@@ -1,0 +1,5 @@
+descriptions,position,matches,wins,losses,draws,scoresFor,scoresAgainst,points,id,team.name,team.slug,team.shortName,team.gender,team.userCount,team.nameCode,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id,team.disabled
+[],1,6,3,2,1,11,9,10,520991,Real Madrid,real-madrid,Real Madrid,M,897998,RMA,False,0,2829,#ffffff,#004996,#004996,Playoffs,6.0,
+[],2,6,2,2,2,16,9,8,520988,Borussia M'gladbach,borussia-mgladbach,M'gladbach,M,84136,BMG,False,0,2527,#ffffff,#000000,#000000,Playoffs,6.0,
+[],3,6,2,2,2,5,12,8,520989,Shakhtar Donetsk,shakhtar-donetsk,Shakhtar D.,M,58224,SHK,False,0,3313,#ff6600,#000000,#000000,Europa League,52.0,
+[],4,6,1,2,3,7,9,6,520990,Inter,inter,Inter,M,408421,INT,False,0,2697,#1a57cc,#000000,#000000,,,False
